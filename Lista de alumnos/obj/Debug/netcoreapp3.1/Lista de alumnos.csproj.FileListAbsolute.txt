@@ -1,0 +1,31 @@
+C:\Users\Joel\source\repos\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.exe
+C:\Users\Joel\source\repos\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.deps.json
+C:\Users\Joel\source\repos\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.runtimeconfig.json
+C:\Users\Joel\source\repos\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.runtimeconfig.dev.json
+C:\Users\Joel\source\repos\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.dll
+C:\Users\Joel\source\repos\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.pdb
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.csproj.AssemblyReference.cache
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista_de_alumnos.Form1.resources
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.csproj.GenerateResource.cache
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.AssemblyInfoInputs.cache
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.AssemblyInfo.cs
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.dll
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.pdb
+C:\Users\Joel\source\repos\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.genruntimeconfig.cache
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.exe
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.deps.json
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.runtimeconfig.json
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.runtimeconfig.dev.json
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.dll
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\bin\Debug\netcoreapp3.1\Lista de alumnos.pdb
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista_de_alumnos.Form1.resources
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista_de_alumnos.Properties.Resources.resources
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.csproj.GenerateResource.cache
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.AssemblyInfo.cs
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.dll
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.pdb
+C:\Users\Joel\Desktop\REPOSITORIO VISUAL STUDIO\Lista de alumnos\obj\Debug\netcoreapp3.1\Lista de alumnos.genruntimeconfig.cache
